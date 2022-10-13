@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The very first!
+
+You need to install dependencies in the */server/* folder and in the main folder with command:
+
+### `npm i` or `npm install`
+
+Then you can start both of projects
+
 ## Available Scripts
 
 In the project directory, you can run:
