@@ -1,0 +1,7 @@
+.MuiTableRow-root.Mui-selected{
+    filter: blur(1px);
+    background-color: rgb(247, 237, 255) !important;
+}
+.MuiTableRow-root{
+    transition: 0.1s ease;
+}

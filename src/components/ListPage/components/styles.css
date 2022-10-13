@@ -1,0 +1,35 @@
+.draggable-main {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    user-select: none;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f0;
+}
+
+.content {
+    position: relative;
+    height: min-content;
+}
+
+.test {
+    margin: 0.7rem 0 0.7rem 0;
+    display: flex;
+    transition: filter 0.2s ease;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: min-content;
+    overflow: visible;
+    pointer-events: auto;
+    transform-origin: 50% 50% 0px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 1rem 1rem;
+    font-size: 14.5px;
+}
