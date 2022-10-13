@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## The very first!
 
-You need to install dependencies in the */server/* folder and in the main folder with command:
+You need to install dependencies in the */server/* folder and in the *main folder* with command:
 
 ### `npm i` or `npm install`
 
